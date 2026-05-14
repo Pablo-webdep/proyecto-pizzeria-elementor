@@ -27,6 +27,12 @@ Sitio web profesional desarrollado con **WordPress**, **Elementor** y **Astra**.
 ![Pastas](Captura de pantalla (805).png)
 *Interactividad mediante efectos de hover.*
 
+## 📦 Instalación y Réplica del Proyecto
+Para los reclutadores o desarrolladores que deseen ver el sitio en un entorno real de WordPress, he habilitado un paquete de migración completo:
+
+1. **Descarga el backup (.wpress):** [Haga clic aquí para descargar desde Google Drive](https://drive.google.com/file/d/126m-a2ySIBahA0ZBF-1e3HLIDXr0GecU/view?usp=sharing)
+2. **Importación:** Utilice el plugin *All-in-One WP Migration* en una instalación limpia de WordPress para replicar el sitio exactamente como se muestra en las capturas.
+
 ---
 
 ## 👨‍💻 Perfil Profesional
